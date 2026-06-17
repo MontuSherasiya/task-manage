@@ -158,6 +158,7 @@ Frontend runs on: `http://localhost:3000`
   <br/><br/>
 
   <img src="pictures\Responsive.png" width="80%" /><br/><br/>
+  
 </p>
 
 ### Dashboard Overview
